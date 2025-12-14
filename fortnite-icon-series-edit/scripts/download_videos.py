@@ -96,6 +96,7 @@ def download_video(url, output_filename, output_dir):
         cmd = [
             "yt-dlp",
             "-f", "best[height<=2160]",
+            "--no-check-certificate",
             "-o", str(output_path),
             url
         ]
