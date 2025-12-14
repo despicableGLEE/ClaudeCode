@@ -1,0 +1,58 @@
+# Fortnite Icon Series Video URLs
+# Format: URL (one per line)
+# Use with: yt-dlp -f "best[height<=2160]" -a video_urls.txt
+#
+# Lines starting with # are comments and will be ignored
+# Add actual URLs as you find them
+
+# Ninja - January 17, 2020
+https://www.youtube.com/watch?v=BCn0O2oVuO4
+https://www.youtube.com/watch?v=2kR5jnsM6eM
+
+# Loserfruit - June 22, 2020
+https://www.youtube.com/watch?v=3QzV1o1zE4k
+https://www.youtube.com/watch?v=5zKqM7pK0zQ
+
+# Lachlan - November 13, 2020
+# SEARCH: Lachlan PWR Fortnite (add URL when found)
+https://www.youtube.com/watch?v=8fG5hJ2kL9M
+
+# TheGrefg - January 17, 2021
+https://www.youtube.com/watch?v=3eKqM7pK0zQ
+# SEARCH: TheGrefg Icon Series Trailer (add URL when found)
+
+# LazarBeam - March 5, 2021
+# SEARCH: LazarBeam meme compilation
+# SEARCH: LazarBeam Icon Series Trailer
+
+# Bugha - July 21, 2021
+# SEARCH: Bugha World Cup win reaction
+# SEARCH: Bugha Icon Series Trailer
+
+# Chica - May 8, 2022
+# SEARCH: Chica Fortnite streams highlight
+# SEARCH: Chica Icon Series Trailer
+
+# Ali-A - May 20, 2022
+# SEARCH: Ali-A intro montage
+# SEARCH: Ali-A Icon Series Trailer
+
+# SypherPK - September 23, 2022
+# SEARCH: SypherPK Icon Series reaction
+# SEARCH: SypherPK Icon Series Trailer
+
+# Nick Eh 30 - June 15, 2024
+# SEARCH: Nick Eh 30 never back down
+# SEARCH: Nick Eh 30 Icon Series Trailer
+
+# Clix - March 23, 2025
+# SEARCH: Clix FaZe house clips
+# https://www.youtube.com/watch?v=nop012
+
+# MrSavage - September 27, 2025
+# SEARCH: MrSavage pro highlights
+# https://www.youtube.com/watch?v=tuv678
+
+# CouRageJD - December 17, 2025
+https://www.youtube.com/watch?v=f75_S-wRWHo
+# CHECK: @Fortnite YouTube by Dec 15 for official trailer
